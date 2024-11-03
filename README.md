@@ -1,7 +1,7 @@
 # lamp2_niveles_2024
 ### Creamos los sh de arpivisonamiento de las dos maquinas virtuales
 #### Script para MySQL
-![](FOTOS/)
+![](FOTOS/1.png)
 #### Script para Apache2
 ![](FOTOS/)
 ### Una vez creados los scripts, configuraremos el Vagrantfile agregando ambas maquinas y aplicando el aprovisionamiento
