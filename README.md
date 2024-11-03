@@ -39,8 +39,7 @@
 ### En este fichero donde pone localhost ponemos la ip de la maquina de sql y cambiamos los datos de user y password.
 ![](FOTOS/13.png)
 ### Instalamos el mysql-client con **sudo apt install -y default-mysql-client**.
-![](FOTOS/.png)
 ### Ahora entramos a mysql con **mysql -u nombreusuario -p -h ipmysql**.
-![](FOTOS/10a.png)
+![](FOTOS/16.png)
+![](FOTOS/17.png)
 ### Ahora si ponemos la dirección de la maquina de apache en Google saldrá la pagina del LAMP.
-![](FOTOS/11a.png)
